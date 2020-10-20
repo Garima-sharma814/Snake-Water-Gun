@@ -6,7 +6,7 @@
 - I hope that you will enjoy the game. Cheers !
 - How this game work !!!!!!!
 
-- Single player can play this game with the computer.
+- *Single player can play this game with the bot*.
 
 ## Rules :- 
 
