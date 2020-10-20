@@ -1,2 +1,2 @@
 - Any modifications are heartly welcomed.
-- Any seem any mistake or something missing can add it.
+- Anyone find any mistake or something missing can add it.
