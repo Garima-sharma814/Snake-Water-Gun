@@ -19,6 +19,6 @@
   <img src="https://contributors-img.web.app/image?repo=Garima-sharma814/Snake-Water-Gun" />
 </a>
 
-Made with [contributors-img](https://contributors-img.web.app).
+
 
 ### Happy Learning :)
