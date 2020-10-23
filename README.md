@@ -10,14 +10,10 @@
 
 ## Rules :- 
 
-     You have to type "S" for snake "W" for water and "G" for gun.
+     You have to type "s" for snake "w" for water and "g" for gun.
+     
 # Modifications
 - Any modifications are heartly welcome.
-
-### Contributors
-<a href="https://github.com/Garima-sharma814/Snake-Water-Gun/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Garima-sharma814/Snake-Water-Gun" />
-</a>
 
 
 
